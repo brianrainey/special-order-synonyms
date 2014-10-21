@@ -9,6 +9,7 @@
   "Dracō" : ["Draco"],
   "Edward Kim: Humanity's Hammer" : ["Edward Kim", "Ed Kim"],
   "Femme Fatale" : ["Femme"],
+  "Fetal AI" : ["Fetal"],
   "Forged Activation Orders" : ["FAO"],
   "Gabriel Santiago: Consummate Professional" : ["Gabriel Santiago", "Gabe"],
   "Gagarin Deep Space: Expanding the Horizon" : ["Gagarin Deep Space", "GDS"],
@@ -20,6 +21,7 @@
   "High-Risk Investment" : ["High Risk Investment", "HRI"],
   "Jackson Howard" : ["Jackson", "J-Ho"],
   "Jinteki: Personal Evolution" : ["Personal Evolution", "PE", "Core Jinteki"],
+  "Jinteki: Replicating Perfection" : ["Jinteki: RP", "Jinteki RP", "Replicating Perfection", "RP"],
   "Kate \"Mac\" McCaffrey: Digital Tinker" : ["Kate McCaffrey", "Kate", "Kate \"Mac\" McCaffrey"],
   "Kati Jones" : ["Kati"],
   "Magnum Opus" : ["Magnum", "MO"],
@@ -41,5 +43,6 @@
   "Virus Breeding Ground" : ["VBG"],
   "Weyland Consortium: Building a Better World" : ["Building a Better World", "Core Weyland"],
   "Whizzard: Master Gamer" : ["Whizzard"],
-  "Yog.0" : ["Yog"]
+  "Yog.0" : ["Yog"],
+  "e3 Feedback Implants" : ["e3"],
 }
