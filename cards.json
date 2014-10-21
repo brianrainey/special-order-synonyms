@@ -17,7 +17,7 @@
   "High-Risk Investment" : ["High Risk Investment", "HRI"],
   "Jackson Howard" : ["Jackson", "J-Ho"],
   "Jinteki: Personal Evolution" : ["Personal Evolution", "PE", "Core Jinteki"],
-  "Kate \"Mac\" McCaffrey: Digital Tinker", ["Kate McCaffrey", "Kate", "Kate \"Mac\" McCaffrey"],
+  "Kate \"Mac\" McCaffrey: Digital Tinker" : ["Kate McCaffrey", "Kate", "Kate \"Mac\" McCaffrey"],
   "Kati Jones" : ["Kati"],
   "Magnum Opus" : ["Magnum", "MO"],
   "Melange Mining Corp." : ["Melange Mining Corp"],
@@ -34,6 +34,6 @@
   "The Personal Touch" : ["Personal Touch"],
   "The Toolbox" : ["Toolbox"],
   "Virus Breeding Ground" : ["VBG"],
-  "Weyland Consortium: Building a Better World", ["Building a Better World", "Core Weyland"],
+  "Weyland Consortium: Building a Better World" : ["Building a Better World", "Core Weyland"],
   "Yog.0" : ["Yog"]
 }
