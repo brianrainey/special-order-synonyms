@@ -22,6 +22,7 @@
   "Chaos Theory: Wünderkind" : ["CT"],
   "Chop Bot 3000" : ["Chop Bot"],
   "Corporate Troubleshooter" : ["Corp Troubleshooter", "Troubleshooter", "Troubleshoot"],
+  "Cyber-Cypher" : ["CyCy"],
   "Cyberdex Virus Suite" : ["CVS", "Virus Suite"],
   "D4v1d" : ["David"],
   "Deus X" : ["Deus Ex"],
@@ -33,6 +34,7 @@
   "Dedicated Technician Team" : ["DTT", "Dedicated Tech Team", "Tech Team", "Dedicated", "Technician Team"],
   "Déjà Vu" : ["Deja Vu"],
   "Demolition Run" : ["Demo Run"],
+  "Dirty Laundry" : ["DL"],
   "Donut Taganes" : ["Donut", "Taganes"],
   "Doppelgänger" : ["Doppelganger"],
   "Dracō" : ["Draco"],
@@ -96,7 +98,7 @@
   "Panic Button" : ["Panic"],
   "Pheromones" : ["Pheromes"],
   "Philotic Entanglement" : ["Philotic"],
-  "Plascrete Carapace" : ["Plascrete"],
+  "Plascrete Carapace" : ["Plascrete", "Plas"],
   "Pop-up Window" : ["Pop-up"],
   "Precognition" : ["Precog"],
   "Prepaid VoicePAD" : ["Prepaid", "PPVP", "Prepad"],
@@ -142,5 +144,6 @@
   "Will-o'-the-Wisp" : ["Willow the Wisp"],
   "Yog.0" : ["Yog"],
   "Zona Sul Shipping" : ["ZSS"],
+  "ZU.13 Key Master" : ["Zu"],
   "e3 Feedback Implants" : ["e3"]
 }
